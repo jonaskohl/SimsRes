@@ -10,9 +10,9 @@ assignees: ''
 **What page are you talking about?**
 …
 
-<!-- Add an x between [ and ] below for whatever applies! -->
-[] I want to add some information
-[] I want to correct some information
+<!-- Replace [ ] with [x] below for whatever applies! -->
+* [ ] I want to add some information
+* [ ] I want to correct some information
 
 **What do you want to add or correct?**
 …

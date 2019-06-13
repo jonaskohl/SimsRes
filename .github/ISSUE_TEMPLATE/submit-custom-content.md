@@ -19,5 +19,5 @@ assignees: ''
 **Provide a <u>permanent</u> and direct link to your custom content file!**
 …
 
-<!-- Put an x between [ and ] below! -->
-[] I hereby confirm that I, the creator of this custom content, have the full rights and permissions to upload and use all assets and parts of the content provided.
+<!-- Replace [ ] with [x] below! -->
+* [ ] I hereby confirm that I, the creator of this custom content, have the full rights and permissions to upload and use all assets and parts of the content provided.
