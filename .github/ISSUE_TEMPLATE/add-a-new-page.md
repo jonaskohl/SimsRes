@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-*What should the new site be about?*
+**What should the new site be about?**
 …
 
-*What should the content look like?*
+**What should the content look like?**
 …
 
-*Do you have any specific content to submit? Provide it here!*
+**Do you have any specific content to submit? Provide it here!**
